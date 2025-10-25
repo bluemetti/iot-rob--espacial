@@ -1,0 +1,25 @@
+# Ambiente Python
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Variáveis de ambiente (contém credenciais sensíveis)
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

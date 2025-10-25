@@ -1,0 +1,18 @@
+# Dependências do Backend Flask
+# Instalar com: pip install -r requirements.txt
+
+# Framework web
+Flask==3.0.0
+flask-cors==4.0.0
+
+# Cliente InfluxDB
+influxdb-client==1.38.0
+
+# Gerenciamento de variáveis de ambiente
+python-dotenv==1.0.0
+
+# Servidor WSGI para produção (opcional)
+gunicorn==21.2.0
+
+# Utilitários
+requests==2.31.0
